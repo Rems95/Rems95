@@ -16,9 +16,6 @@ Here are some ideas to get you started:
 -->
 <div align="center">
    <h1>Hi there, I'm <a href="#">Rems95</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
-   
-   
-   <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
 </div>
 
 
@@ -54,7 +51,7 @@ Here are some ideas to get you started:
  
  - All About living life at its best.
  
- - 💬 Connect? lets get social 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://www.linkedin.com/in/aremou-bouraima-576197197)
+ - 💬 Connect? lets get social 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/linkedin.svg" >](https://www.linkedin.com/in/aremou-bouraima-576197197)
  <p align="center">
   <h4> Full Stack | Freelancing | Competitive Programming </h4>
    </p>
