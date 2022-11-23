@@ -62,9 +62,9 @@ Here are some ideas to get you started:
 <!--  -->
 
 <p align="center" >
-<a href="https://github.com/Rems95/github-readme-stats"> 
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rems95)](https://git.io/streak-stats)
-  </a>
+
 
 </p>
 
