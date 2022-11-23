@@ -27,7 +27,6 @@ Here are some ideas to get you started:
  
  
 <br />
-<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
 <p align="center">
   <h3> I'm 21 years old, I'm a graduate Full-Stack Engineer from Benin.</h3>
 </p>
