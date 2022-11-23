@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 
 <p align="center" >
 <a href="https://github.com/Rems95/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=Rems95&&show_icons=true&theme=radical"/>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rems95)](https://git.io/streak-stats)
   </a>
 
 </p>
@@ -101,4 +101,3 @@ Here are some ideas to get you started:
 
  
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rems95)](https://git.io/streak-stats)
