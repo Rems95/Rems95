@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
  - 🥀 Learning Laravel 
  
- - <i>with NodeJs, Flutter, React Native,Flask and 69 others.</i>
+ - <i>with NodeJs, Flutter, React Native,Flask and others.</i>
    
  - 🔭 SpaceX FanBoi, die for space😼
 
