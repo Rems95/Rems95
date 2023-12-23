@@ -34,11 +34,7 @@ Here are some ideas to get you started:
  - 🥀 Learning Laravel 
  
  - <i>with NodeJs, Flutter, React Native,Flask and others.</i>
-   
- - 🔭 SpaceX FanBoi, die for space😼
-
- - 🛸 Into High Energy Physics and Astrophysics, i love shooting stars too.
- 
+    
  - I do fullstack and a bit of everything :heart:
  
  - All About living life at its best.
